@@ -6,6 +6,7 @@ export default () => {
   console.warn('ola mundo')
   return(
     <SafeAreaView>
+      <App />
       <Text>Hello world!</Text>
     </SafeAreaView>
   )
